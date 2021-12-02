@@ -2,7 +2,7 @@ package pl.teslachorzow.hmetody;
 
 public class Main10 {
     public static void main(String[] args) {
-        System.out.println(footballWin(2,3,3,2));
+        System.out.println(footballWin(1,1,1,1));
     }
 
     public static String footballWin(double mecz1a, double mecz1b, double mecz2a, double mecz2b ){
